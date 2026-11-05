@@ -6,3 +6,4 @@
 | 2026-11-04 | First-night effect / one hemisphere stays awake | inside-out | Half Your Brain Stays Awake In A New Place | https://www.youtube.com/watch?v=11bR8gQx2hs |
 | 2026-11-05 | Stomach digests itself / mucus barrier + 3-6 day lining turnover | inside-out | Your Stomach Is Digesting Itself Right Now | https://www.youtube.com/watch?v=oemM1aAEYPQ |
 | 2026-11-05 | Fastest star ever found: S301 at 25,000 km/s round Sgr A*, frame dragging | inside-out | The Fastest Star Ever Found | https://www.youtube.com/watch?v=tctp4Q41KAU |
+| 2026-11-06 (scheduled) | Temptation bundling / dopamine is wanting not pleasure | inside-out | Get Addicted to Studying With This Brain Hack | https://www.youtube.com/watch?v=YwLzcGQdau0 (private until 2026-11-06 19:00 PKT) |
