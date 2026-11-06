@@ -8,3 +8,4 @@
 | 2026-11-05 | Fastest star ever found: S301 at 25,000 km/s round Sgr A*, frame dragging | inside-out | The Fastest Star Ever Found | https://www.youtube.com/watch?v=tctp4Q41KAU |
 | 2026-11-06 (scheduled) | Temptation bundling / dopamine is wanting not pleasure | inside-out | Get Addicted to Studying With This Brain Hack | https://www.youtube.com/watch?v=YwLzcGQdau0 (private until 2026-11-06 19:00 PKT) |
 | 2026-11-13 (scheduled) | Retrieval practice vs rereading: Roediger & Karpicke testing effect | inside-out | The Study Trick 9 In 10 Students Never Use | https://www.youtube.com/watch?v=KYm3AYOZQE8 (private until 2026-11-13 18:00 PKT) |
+| 2026-11-06 | Why you can't tickle yourself: efference copy / cerebellum prediction cancels self-touch; 200 ms robot delay restores it | inside-out | Why You Can't Tickle Yourself | https://www.youtube.com/watch?v=uBI0h587yrc |
