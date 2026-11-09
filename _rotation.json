@@ -1,0 +1,6 @@
+{
+  "_comment": "Which faceless-shorts style the daily run uses. index = floor(days since start / block_days) % len(styles). Edit this file to change the rotation; the scheduled task reads it every run.",
+  "start": "2026-11-10",
+  "block_days": 10,
+  "styles": ["stick-story", "inside-out", "paper-atlas", "tall-tale", "deep-dive", "night-file"]
+}
