@@ -1,0 +1,4 @@
+{
+  "_comment": "Dates (YYYY-MM-DD, Asia/Karachi) on which the daily routine must NOT build or publish anything, because another video is already scheduled to go public that day. Posting two Shorts close together has repeatedly strangled one of the pair. The style rotation is date-driven, so a skipped day does not shift it.",
+  "skip": ["2026-11-13"]
+}
