@@ -24,6 +24,7 @@
 | 2026-11-21 | Exercise-associated hyponatremia: drinking more hypotonic fluid than the kidneys can excrete drops blood sodium under 135 mmol/L; water moves into cells and across the blood-brain barrier, causing brain swelling / hyponatremic encephalopathy. Mild signs are bloating, puffy hands, headache, weight gain and crucially a LACK of thirst, so people drink more; 8 documented deaths since 1985, 13% of Boston 2002 marathon runners affected; WMS/2015 consensus = drink to thirst, treat with fluid restriction + salt, never more hypotonic fluid | inside-out | | | Drinking Too Much Water Can Kill You | https://www.youtube.com/watch?v=YjfJ43tg7WI |
 | 2026-11-22 | Exertional heat stroke: damage is set by TIME above the critical threshold, not peak temperature (NATA 2015 Rec 36: "The length of time the core body (and particularly the brain) is above the critical temperature threshold (40.5 C [105 F]) dictates morbidity and the risk of death"); cold-water immersion up to the neck is the most effective cooling (Rec 38), cool first and transport second (Rec 41); Casa/SciLine 2025: "100% survival in over 3,000 cases we have tracked if the person's body temperature gets under 104 within 30 minutes" | inside-out | | | Never Drive A Heat Stroke Victim To Hospital | https://www.youtube.com/watch?v=hwmt-hYktLQ |
 | 2026-11-23 | Popping a pimple in the danger triangle: the classic 'facial veins are valveless' reason is WRONG (Zhang & Stringer 2010, 'Ophthalmic and facial veins are not valveless' - valves are present in most people); what matters is the communication and the direction of flow. The valveless part is the cavernous sinus itself (Long 2024: 'the connections within the cavernous sinus do not have valves, bidirectional spread... can occur'). CST incidence 2-13 per million/yr; pre-antibiotic mortality 80-100%, now 11-30%. Wrong reason, right rule. | inside-out | D - ACCUSATION (opens in the second person telling the viewer they do this, and were taught the wrong reason) | 43.7 s | What Happens If You Pop A Pimple Here | https://www.youtube.com/watch?v=iRD0kZhUftc |
+| 2026-11-24 | Reheating rice / fried rice syndrome: the UK FSA says it is NOT the reheating - "It's not the reheating that causes the problem, but the way the rice has been stored before it's reheated." Bacillus cereus spores survive boiling; left at room temperature they germinate and produce a heat-stable toxin that reheating does not destroy. Chill within 1 hour, eat within 24 hours, reheat once. 2008 Belgian case: a 20-year-old died after eating 5-day-old pasta left out (Palombo, The Conversation). Death is rare. | inside-out | E - EARLY ANSWER (full answer on screen by 8.1 s, the rest proves the viewer still does not believe it) | 37.7 s | Reheating Rice Is Not The Problem | https://www.youtube.com/watch?v=fMH8Xyg2Ny4 |
 
 <!-- analytics pulled 2026-11-23 (last 14 days, channel==MINE; YouTube Analytics lags ~2 days so 2026-11-21/22 are missing or partial).
      views | avgViewPct | likes | subs — sorted by views:
@@ -40,3 +41,24 @@
      Read: NO video has broken the 1,200-1,580 band. The stick-story survival run (power line, fire asleep,
      crowd crush) out-likes and out-views the recent inside-out body run (water 918/0.76%, crush syndrome 868/1.73%).
      Today 2026-11-23 is the FIRST run logged with an experiment dial, so there is no experiment comparison yet. -->
+
+<!-- analytics pulled 2026-11-24 (last 14 days 2026-11-10..24, channel==MINE; Analytics lags ~2 days so 2026-11-23 pimple and 2026-11-24 rice are absent - expected).
+     views | avgViewPct | likes | subs - sorted by views:
+       iCXYZpZDJyM crowd crush      1388 | 82.7% | 23 (1.66%) | 0
+       yNgchqEjElg power line       1374 | 76.9% | 36 (2.62%) | 0   <-- still the best like rate on the channel
+       e_YCKso2Mv0 pan fire         1244 | 83.0% | 17 (1.37%) | 1
+       ZjMvVbNRia0 fall through ice 1201 | 67.4% | 16 (1.33%) | 4
+       YjfJ43tg7WI too much water   1138 | 50.0% | 10 (0.88%) | 0
+       8fCyn86zhWE rip current       963 | 64.8% |  8 (0.83%) | 0
+       eyYkf64VR6A lifting the car   878 | 74.8% | 15 (1.71%) | 1
+       ahXKs9FQyTg sinking car       615 | 65.8% |  6 (0.98%) | 1
+       KYm3AYOZQE8 study trick       341 | 61.5% |  7 (2.05%) | 0
+       iNGNoeAOvN4 fire asleep       136 | 79.6% |  3 (2.21%) | 0   <-- 14-day window now only catches its tail
+     Read: NOTHING has broken the 1,200-1,580 band. No experiment comparison is possible yet - only two runs
+     have carried a dial (D on 2026-11-23, E on 2026-11-24) and Analytics has not reported on either.
+     The stick-story survival run (power line 2.62%, crowd crush 1.66%) still out-likes the inside-out body
+     run (too much water 0.88%, lifting the car 1.71%). Water also dropped to 50.0% avg view pct - the
+     weakest on the channel, and the only video under 60%.
+     Note: 2026-11-24 published the video BUILT on 2026-11-23 and held over so it would not compete with the
+     pimple Short the same day. No new video was rendered on 2026-11-24. The style rotation is date-driven
+     and was not shifted by the hold. -->
