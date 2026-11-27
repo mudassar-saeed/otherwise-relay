@@ -63,3 +63,33 @@
      Note: 2026-11-24 published the video BUILT on 2026-11-23 and held over so it would not compete with the
      pimple Short the same day. No new video was rendered on 2026-11-24. The style rotation is date-driven
      and was not shifted by the hold. -->
+
+<!-- analytics pulled 2026-11-27 (2026-11-13..27, channel==MINE; Analytics lags ~2 days, so today's neck Short is absent - expected).
+     views | avgViewPct | likes | subs - sorted by views:
+       iCXYZpZDJyM crowd crush      1394 | 82.6% | 23 (1.65%) | 0
+       yNgchqEjElg power line       1375 | 76.9% | 36 (2.62%) | 0   <-- still the best like rate on the channel
+       e_YCKso2Mv0 pan fire         1244 | 83.0% | 17 (1.37%) | 1
+       ZjMvVbNRia0 fall through ice 1201 | 67.4% | 16 (1.33%) | 4
+       YjfJ43tg7WI too much water   1143 | 50.1% | 10 (0.88%) | 0
+       iRD0kZhUftc pop a pimple     1041 | 41.9% |  6 (0.58%) | 0   <-- experiment D
+       eyYkf64VR6A lifting the car  1015 | 72.7% | 17 (1.67%) | 1
+       KYm3AYOZQE8 study trick       341 | 61.5% |  7 (2.05%) | 0
+       8fCyn86zhWE rip current        48 | 53.6% |  0 | 0   (14-day window now catches only its tail)
+       hwmt-hYktLQ heat stroke         5 | 72.3% |  0 | 0   <-- published 2026-11-22. FIVE views in five days.
+       fMH8Xyg2Ny4 reheating rice       8 | 49.7% |  0 | 0   <-- experiment E, published 2026-11-24. EIGHT views in three days.
+     THE FLOOR HAS GONE. The premise written into the routine - "every video gets ~1,000-1,400 views in its first
+     few hours" - is no longer true. Two of the last three uploads got essentially ZERO distribution:
+     heat stroke (2026-11-22) 5 views, reheating rice (2026-11-24) 8 views. The pimple Short published BETWEEN
+     those two did get 1,041, so this is not a channel-wide shutdown and not the analytics lag.
+     What the two zero-distribution videos have in common, stated as an observation and NOT as a diagnosis:
+     both titles read as health advice that contradicts common guidance - "Never Drive A Heat Stroke Victim To
+     Hospital" and "Reheating Rice Is Not The Problem". The pimple video between them was framed as a question
+     about the body, not as an instruction. Limited distribution on medical-advice framing is a plausible
+     explanation and should be checked in YouTube Studio (look for a limited-features / borderline-content
+     notice on hwmt-hYktLQ and fMH8Xyg2Ny4, and compare traffic-source breakdowns) before another video is
+     titled as a health instruction. Do not treat this as confirmed.
+     Experiments: D (pimple) came in at 1,041 views, 41.9% avg view pct and a 0.58% like rate - the WORST
+     like rate and worst retention on the channel. E (rice) cannot be judged, because it was never distributed.
+     Nothing has beaten the 1,200-1,580 band; the band itself has now broken downward instead.
+     Publishing gap: nothing went out on 2026-11-25 or 2026-11-26. The 2026-11-25 build hit a Zapier 429 and was
+     held; the 2026-11-26 run did not publish it either and left no commit, so three days passed with one upload. -->
