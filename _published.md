@@ -27,6 +27,7 @@
 | 2026-11-24 | Reheating rice / fried rice syndrome: the UK FSA says it is NOT the reheating - "It's not the reheating that causes the problem, but the way the rice has been stored before it's reheated." Bacillus cereus spores survive boiling; left at room temperature they germinate and produce a heat-stable toxin that reheating does not destroy. Chill within 1 hour, eat within 24 hours, reheat once. 2008 Belgian case: a 20-year-old died after eating 5-day-old pasta left out (Palombo, The Conversation). Death is rare. | inside-out | E - EARLY ANSWER (full answer on screen by 8.1 s, the rest proves the viewer still does not believe it) | 37.7 s | Reheating Rice Is Not The Problem | https://www.youtube.com/watch?v=fMH8Xyg2Ny4 |
 | 2026-11-27 | Cracking your neck: the pop is gas in the joint fluid (tribonucleation - forming or collapsing still unproven), NOT bone on bone and not linked to arthritis; the real danger is how far you force the turn, because the vertebral artery threads up through the transverse foramina inside the neck bones and up to ~70% of head rotation happens at C1-C2, where it can kink, stretch or tear (cervical artery dissection); nothing has been shown to predict who. BUILT 2026-11-25, held over after a Zapier 429 on 2026-11-25 and again unpublished on 2026-11-26; published 2026-11-27. | inside-out | C - COLD OPEN (frame one is the torn artery, no setup; the explanation arrives after) | 49.0 s | Is Cracking Your Neck Bad? | https://www.youtube.com/watch?v=4v1VVF8hduY |
 
+| 2026-11-28 | Holding in a sneeze: the air does not stop, it finds another route - BMJ Case Reports 2018 (Yang, Sahota, Das), a 34-year-old man ruptured the back of his throat after pinching his nose and clamping his mouth shut; crepitus from neck to ribcage, CT showed air in the deep tissue and muscles of the chest; fed by tube + IV antibiotics, discharged after seven days. Authors: 'Halting sneezing via blocking [the] nostrils and mouth is a dangerous manoeuvre, and should be avoided.' Cleveland Clinic (Nov 2024): no reported cases of death from holding in a sneeze. | inside-out | A - SHORT (finish under 22 s: hook, surprise, proof, out - not used in the last three runs, which were D, E, C) | 21.8 s | Is Holding In A Sneeze Bad? | https://www.youtube.com/watch?v=0GC-7AEncpE |
 <!-- analytics pulled 2026-11-23 (last 14 days, channel==MINE; YouTube Analytics lags ~2 days so 2026-11-21/22 are missing or partial).
      views | avgViewPct | likes | subs — sorted by views:
        iCXYZpZDJyM crowd crush      1388 | 82.7% | 23 (1.66%) | 0
@@ -93,3 +94,26 @@
      Nothing has beaten the 1,200-1,580 band; the band itself has now broken downward instead.
      Publishing gap: nothing went out on 2026-11-25 or 2026-11-26. The 2026-11-25 build hit a Zapier 429 and was
      held; the 2026-11-26 run did not publish it either and left no commit, so three days passed with one upload. -->
+
+<!-- analytics pulled 2026-11-28 (2026-11-14..28, channel==MINE; Analytics lags ~2 days, so 2026-11-27's neck Short and today's sneeze Short are absent - expected).
+     views | avgViewPct | likes | subs - sorted by views:
+       iCXYZpZDJyM crowd crush      1394 | 82.6% | 23 (1.65%) | 0
+       yNgchqEjElg power line       1375 | 76.9% | 36 (2.62%) | 0   <-- still the best like rate on the channel
+       ZjMvVbNRia0 fall through ice 1201 | 67.4% | 16 (1.33%) | 4
+       YjfJ43tg7WI too much water   1143 | 50.1% | 10 (0.88%) | 0
+       iRD0kZhUftc pop a pimple     1063 | 42.0% |  6 (0.56%) | 0   <-- experiment D
+       eyYkf64VR6A lifting the car  1015 | 72.7% | 17 (1.67%) | 1
+       KYm3AYOZQE8 study trick       113 | 51.1% |  3 | 0   (tail only)
+       e_YCKso2Mv0 pan fire           99 | 72.6% |  1 | 0   (tail only)
+       fMH8Xyg2Ny4 reheating rice      9 | 49.7% |  0 | 0   <-- experiment E, published 2026-11-24. NINE views in four days.
+       hwmt-hYktLQ heat stroke         5 | 72.3% |  0 | 0   <-- published 2026-11-22. FIVE views in six days.
+     The zero-distribution pair has NOT recovered: heat stroke 5 and reheating rice 9, four to six days on.
+     Both are still the only two uploads titled as health INSTRUCTIONS that contradict common guidance
+     ("Never Drive A Heat Stroke Victim To Hospital", "Reheating Rice Is Not The Problem"). Every upload
+     titled as a QUESTION about the body has distributed normally. Stated as an observation, still not a
+     confirmed diagnosis - it should be checked in YouTube Studio for a limited-features notice on
+     hwmt-hYktLQ and fMH8Xyg2Ny4. Today's title follows the question form deliberately.
+     Experiments so far: D (pimple) 1,063 views / 42.0% / 0.56% like rate - worst retention and worst like
+     rate on the channel. E (rice) unjudgeable, never distributed. C (neck, 2026-11-27) too new to report.
+     A (sneeze) is today's and will first appear around 2026-11-30.
+     Nothing has beaten the 1,200-1,580 band. -->
